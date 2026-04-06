@@ -25,13 +25,13 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=nkc6674-ops&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=puspasubedi7-ops&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=nkc6674-ops&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=puspasubedi7-ops&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nkc6674-ops&theme=tokyonight-duo&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=puspasubedi7-ops&theme=tokyonight-duo&hide_border=true&cache_seconds=86400)
 
-[![Nisha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nkc6674-ops&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pushpa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puspasubedi7-ops&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ✨ Daily Dev Quote
 
